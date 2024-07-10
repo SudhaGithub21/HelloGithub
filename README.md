@@ -10,8 +10,11 @@ I mainly used HTML, CSS, and Bootstrap for this project. I utilized Bootstrap co
 Technologies and Tools Used:
 
 HTML, CSS, and Bootstrap: Used for structuring the content (HTML), styling (CSS), and enhancing UI components (Bootstrap).
+
 Bootstrap Components: Utilized grid layout for responsive design, carousel for image slideshows, modal for displaying additional content, and nav-tabs for organizing content.
+
 CSS: Implemented hover effects, transitions, and transformations to enhance user interaction and visual appeal.
+
 JavaScript and jQuery: Used minimally, likely for dynamic functionalities such as header behavior.
 
 Thanking for your reading!
